@@ -5,8 +5,12 @@
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/jin-gubang/nezha4serv00/main/install-dashboard.sh)
 ```
+√√√√Last Agent installation:
+```bash
+bash <(curl -s https://raw.githubusercontent.com/jin-gubang/nezha4serv00/main/install-agent.sh)
+```
 
 √√√√v0.20.5 Agent installation:
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/jin-gubang/nezha4serv00/main/install-agent.sh)
+bash <(curl -s https://raw.githubusercontent.com/jin-gubang/nezha4serv00/main/install-agent-v0.20.5.sh)
 ```
