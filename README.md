@@ -14,3 +14,12 @@ bash <(curl -s https://raw.githubusercontent.com/jin-gubang/nezha4serv00/main/in
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/jin-gubang/nezha4serv00/main/install-agent-v0.20.5.sh)
 ```
+
+serv00安装pm2
+```bash
+bash <(curl -s https://raw.githubusercontent.com/k0baya/alist_repl/main/serv00/install-pm2.sh)
+```
+保活nezha-agent
+```
+pm2 start nezha-agent
+```
